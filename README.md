@@ -1,1 +1,2 @@
-# who-gets-what-at-schools
+# "Who Gets What at School?" — A Data Science Investigation of Educational Equity in Hyde Park & Beyond
+The throughline connecting both ideas is educational access and equity — who gets what kind of support, and how does identity (race, language, disability status) shape that? This project explores both local and national dataset. Together they tell a fuller story: what resources schools provide, and who they label, support, or leave behind.
